@@ -1,0 +1,40 @@
+
+
+
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-top: 30px; */
+    height: 70px;
+}
+.header-logo-nav {
+    display: flex;
+}
+.novigation {
+    display: flex;
+}
+.novigation li {
+    margin-left: 40px;
+    list-style: none;
+}
+.signUp {
+    padding: 12px 22px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.signIn {
+    padding: 12px 22px;
+    border-radius: 10px;
+   background-color: white;
+    color: rgb(8, 7, 7);
+    border: none;
+}
+
+
+
+
